@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+I am currently pursuing a M. Sc in Data Science.
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
+
 You can connect with me on LinkedIN at 
 
 https://www.linkedin.com/in/srijan-r-102470242/
