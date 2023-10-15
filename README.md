@@ -1,4 +1,4 @@
-### Hello, there 👋
+### Hello, there !
 
 👋 Hi, I’m Srijan
 
