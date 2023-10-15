@@ -5,7 +5,7 @@
 </div>
 You can connect with me on LinkedIN at 
 
-linkedin.com/in/srijan-r-102470242
+https://www.linkedin.com/in/srijan-r-102470242/
 
 Built a simple calculator Web App using Streamlit
 
