@@ -11,7 +11,7 @@
 📫 Connect with me at https://www.linkedin.com/in/srijan-r-102470242/
 
 
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
