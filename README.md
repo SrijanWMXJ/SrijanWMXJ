@@ -6,7 +6,7 @@
 
 🌱 I’m currently pursuing an M. Sc in Data Science
 
-💞️ I’m looking to collaborate on any Machine Learning project
+💞️ I’m looking to collaborate on any Machine Learning projects
 
 📫 Connect with me at https://www.linkedin.com/in/srijan-r-102470242/
 
